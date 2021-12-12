@@ -5,3 +5,4 @@ INSERT INTO public.URUNYORUM( ID, YORUM, YORUM_TARIHI, URUN_ID, KULLANICI_ID) VA
 INSERT INTO public.URUNYORUM( ID, YORUM, YORUM_TARIHI, URUN_ID, KULLANICI_ID) VALUES (    5    ,'Lorem ipsum 5',     now()    , 3,     3);
 INSERT INTO public.URUNYORUM( ID, YORUM, YORUM_TARIHI, URUN_ID, KULLANICI_ID) VALUES (    6    ,'Lorem ipsum 6',     now()    , 4,     7);
 INSERT INTO public.URUNYORUM( ID, YORUM, YORUM_TARIHI, URUN_ID, KULLANICI_ID) VALUES (    7    ,'Lorem ipsum 7',     now()    , 5,     5);
+INSERT INTO public.URUNYORUM( ID, YORUM, YORUM_TARIHI, URUN_ID, KULLANICI_ID) VALUES (    8    ,'Lorem ipsum 8',     now()    , 5,     2);
